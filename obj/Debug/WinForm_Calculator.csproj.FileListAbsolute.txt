@@ -1,0 +1,11 @@
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\bin\Debug\WinForm_Calculator.exe.config
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\bin\Debug\WinForm_Calculator.exe
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\bin\Debug\WinForm_Calculator.pdb
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\obj\Debug\WinForm_Calculator.csproj.AssemblyReference.cache
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\obj\Debug\WinForm_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\obj\Debug\WinForm_Calculator.Form1.resources
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\obj\Debug\WinForm_Calculator.Properties.Resources.resources
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\obj\Debug\WinForm_Calculator.csproj.GenerateResource.cache
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\obj\Debug\WinForm_Calculator.csproj.CoreCompileInputs.cache
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\obj\Debug\WinForm_Calculator.exe
+C:\MSSA\Week 4\Assignment\WinForm_Calculator\obj\Debug\WinForm_Calculator.pdb
